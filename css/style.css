@@ -16,6 +16,11 @@ body {
 	background-color: black;
 }
 
+body ::selection {
+background: rgba(255,251,102, 0.8);
+
+}
+
 .circle {
 	width: 100px;
 	height: 100px;
